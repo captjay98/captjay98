@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=captjay98&theme=tokyonight)](https://github.com/captjay98/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captjay98&layout=compact)](https://github.com/captjay98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captjay98)](https://github.com/captjay98/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=captjay98)](https://github.com/captjay98/github-readme-stats)
 
