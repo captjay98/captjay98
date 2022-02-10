@@ -1,4 +1,4 @@
-class Human:
+mclass Human:
 
     def __init__(self, name, age, occupation, height, weight, complexion):
         self.name = name
