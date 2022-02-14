@@ -28,7 +28,7 @@ while True:
       Q1 = input("Let's go, What would you like to know?: ")
 
       if Q1 == "What's your name?":
-          print(f"My name is {aboutMe(my_name)}.")
+          print(f"My name is {aboutMe[5]}.")
 
       elif Q1 == "How old are you?":
           print(f"I am {my_age} years old")
