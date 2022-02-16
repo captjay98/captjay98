@@ -16,6 +16,5 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=captjay98&theme=highcontrast)](https://git.io/streak-stats)
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=captjay98)](https://open.spotify.com/user/captjay98)
 
 
