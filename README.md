@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @captjay98
 - 👀 I’m interested in Python
-- 🌱 I’m currently Software Engineering
+- 🌱 I’m currently Learning Software Engineering
 - 💞️ I’m looking to collaborate on Anything Tech Related, not just coding.
 - 📫 How to reach me @ captjay98@gmail.com
 
