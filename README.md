@@ -10,6 +10,10 @@ You can click the Preview link to take a look at your changes.
 --->
 [![status](https://badge.stateful.com/captjay98/status.svg)](Status for @captjay98)
 
+[![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram)](https://instagram.com/@capt_jay98)
+[![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://www.twitter.com/captjay98)
+[![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/9fseiifs91xr5x6widc4by28o)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=captjay98&theme=tokyonight&layout=compact)](https://github.com/captjay98/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captjay98&layout=compact)](https://github.com/captjay98/github-readme-stats)
