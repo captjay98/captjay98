@@ -20,7 +20,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=captjay98&layout=compact)](https://github.com/captjay98/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=captjay98&theme=highcontrast&layout=compact)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=captjay98&layout=compact)](https://git.io/streak-stats)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
