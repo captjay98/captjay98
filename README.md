@@ -21,7 +21,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=captjay98&theme=highcontrast&layout=compact)](https://git.io/streak-stats)
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=captjay98)](https://open.spotify.com/user/9fseiifs91xr5x6widc4by28o?si=43735987ecd34e36)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=captjay98)](https://open.spotify.com/user/9fseiifs91xr5x6widc4by28o)
 
 
 
