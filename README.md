@@ -16,7 +16,7 @@
 
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=captjay98&layout=compact)](https://github.com/captjay98/github-readme-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=captjay98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=captjay98&theme=highcontrast&layout=compact)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=captjay98&layout=compact)](https://github.com/captjay98/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=captjay98&theme=highcontrast&layout=compact)](https://git.io/streak-stats)[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=captjay98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
