@@ -10,13 +10,13 @@ You can click the Preview link to take a look at your changes.
 --->
 [![status](https://badge.stateful.com/captjay98/status.svg)](Status for @captjay98)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=captjay98&theme=tokyonight)](https://github.com/captjay98/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=captjay98&theme=tokyonight&layout=compact)](https://github.com/captjay98/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captjay98)](https://github.com/captjay98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captjay98&layout=compact)](https://github.com/captjay98/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=captjay98)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=captjay98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=captjay98&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=captjay98&theme=highcontrast&layout=compact)](https://git.io/streak-stats)
 
 [![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=captjay98)](https://open.spotify.com/user/9fseiifs91xr5x6widc4by28o?si=43735987ecd34e36)
 
