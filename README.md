@@ -3,6 +3,8 @@
 - 🌱 I’m currently Learning Software Engineering
 - [![status](https://badge.stateful.com/captjay98/status.svg)](Status for @captjay98)
 - 💞️ I’m looking to collaborate on Anything Tech Related, not just coding.
+
+
 📫 You can reach me on @ captjay98@gmail.com
 [![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram)](https://www.instagram.com/capt_jay98/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://mobile.twitter.com/capt_jay98)
