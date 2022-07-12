@@ -22,7 +22,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=captjay98&theme=tokyonight_duo&layout=compact)](https://git.io/streak-stats)
 
-![Jokes Card](https://readme-jokes.vercel.app&theme=tokyonight_duo/api)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
