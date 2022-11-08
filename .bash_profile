@@ -4,11 +4,17 @@ if [ -f ~/.bashrc ]; then
     source  ~/.bashrc
 fi
 
-alias wh=' cd /mnt/c/Users/"Jamal Ibrahim Umar" '
+alias webs = 'ssh ubuntu@52.206.252.171 '
+
+alias webss = 'ssh ubuntu@100.26.165.100 '
+
+alias weblb = 'ssh ubuntu@34.202.157.254 '
 
 alias lh=' cd /home/captjay98 '
 
-alias alx=' cd /home/captjay98/Mine/alx-low_level_programming '
+alias alx=' cd /home/captjay98/mine/alx '
+
+alias ho=' cd /home/captjay98/mine/'
 
 alias s=' sudo '
 
