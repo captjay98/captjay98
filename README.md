@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @captjay98
-- 👀 I’m interested in Python
-- 🌱 I’m currently Learning Software Engineering
+- 👋 Hi, I’m Jamal, I’m currently Learning Software Engineering, I Love Python.
 - [![status](https://badge.stateful.com/captjay98/status.svg)](Status for @captjay98)
 - 💞️ I’m looking to collaborate on Anything Tech Related, not just coding.
 - 📫 You can reach me on @ captjay98@gmail.com
