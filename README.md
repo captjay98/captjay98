@@ -8,6 +8,7 @@
 
 [![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram)](https://www.instagram.com/capt_jay98/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://mobile.twitter.com/capt_jay98)
+[![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/capt_jay98/
 [![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/9fseiifs91xr5x6widc4by28o)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=captjay98&theme=tokyonight_duo&layout=compact&hide=Assembly,Powershell&langs_count=8%exclude_repo=alx-higher_level_programming,AirBnB_clone_v3)](https://github.com/captjay98/github-readme-stats)
