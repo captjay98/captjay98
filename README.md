@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Jamal, a Tech lover, geek and enthusiast.
-- I code for fun tho I am a Fullstack Software Engineer, Python is definitely my favourtite.
+- Coding is fun.
+- I am a Fullstack Software Engineer, Python is definitely my favourtite lang.
 - Feel free to hmu for help or collabs.
 - 📫 You can reach me on @ captjay98@gmail.com
 - [![status](https://badge.stateful.com/captjay98/status.svg)](Status for @captjay98)
-
-www.linkedin.com/in/
 
 [![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram)](https://www.instagram.com/capt_jay98/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://mobile.twitter.com/capt_jay98)
