@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Jamal, a Tech lover, geek and enthusiast.
 
-- [![status](https://badge.stateful.com/captjay98/status.svg)](Status for @captjay98)
-
-[![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram)](https://www.instagram.com/capt_jay98/)
+👋 Hi, I’m Jamal, a Tech lover, geek and enthusiast. [![status](https://badge.stateful.com/captjay98/status.svg)](Status for @captjay98)
+ [![](https://img.shields.io/badge/instagram-12100E?style=for-the-badge&logo=instagram)](https://www.instagram.com/capt_jay98/)
 [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://mobile.twitter.com/capt_jay98)
 [![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/9fseiifs91xr5x6widc4by28o)
 
