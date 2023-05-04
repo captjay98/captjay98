@@ -35,13 +35,13 @@
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captjay98&theme=github_dark&layout=compact&hide=Assembly,Powershell&langs_count=8%exclude_repo=alx-higher_level_programming,AirBnB_clone_v3" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captjay98&theme=blue-green&layout=compact&hide=Assembly,Powershell&langs_count=8%exclude_repo=alx-higher_level_programming,AirBnB_clone_v3" />
 </a>
 
 <br>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=captjay98&theme=github_dark&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=captjay98&theme=blue-green&layout=compact" />
 </a>
 
 
