@@ -55,7 +55,7 @@
 </a>
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api&theme=bgithub-dark)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 </div>
