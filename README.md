@@ -21,11 +21,14 @@
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captjay98&theme=tokyonight_duo&layout=compact&hide=Assembly,Powershell&langs_count=8%exclude_repo=alx-higher_level_programming,AirBnB_clone_v3" />
 </a>
 
-
+<br>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=captjay98&theme=tokyonight_duo&layout=compact" />
 </a>
+
+<br>
+
 <a href="https://git.io/streak-stats">
   <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captjay98&theme=tokyonight_duo&layout=compact" />
 </a>
