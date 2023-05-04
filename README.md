@@ -27,7 +27,7 @@
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=captjay98&theme=tokyonight_duo&layout=compact" />
 </a>
 
-<br>
+
 
 <a href="https://git.io/streak-stats">
   <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captjay98&theme=tokyonight_duo&layout=compact" />
