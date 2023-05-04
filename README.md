@@ -35,23 +35,23 @@
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captjay98&theme=blue-green&layout=compact&hide=Assembly,Powershell&langs_count=8%exclude_repo=alx-higher_level_programming,AirBnB_clone_v3" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captjay98&theme=github-dark&layout=compact&hide=Assembly,Powershell&langs_count=8%exclude_repo=alx-higher_level_programming,AirBnB_clone_v3" />
 </a>
 
 <br>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=captjay98&theme=blue-green&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=captjay98&theme=github-dark&layout=compact" />
 </a>
 
 
 
 <a href="https://git.io/streak-stats">
-  <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captjay98&theme=blue-green&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captjay98&theme=bgithub-dark&layout=compact" />
 </a>
 
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api&theme=bgithub-dark)
 
 
 </div>
