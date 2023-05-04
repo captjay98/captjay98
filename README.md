@@ -47,7 +47,7 @@
 
 
 <a href="https://git.io/streak-stats">
-  <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captjay98&theme=tokyonight_duo&layout=compact" />
+  <img height="180px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=captjay98&theme=ads-juicy-fresh&layout=compact" />
 </a>
 
 
