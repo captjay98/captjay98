@@ -16,8 +16,8 @@
 <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"/><img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=captjay98&theme=tokyonight_duo&layout=compact" />
+<a href="(https://github.com/anuraghazra/github-readme-stats">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=captjay98&theme=tokyonight_duo&layout=compact" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captjay98&theme=tokyonight_duo&layout=compact&hide=Assembly,Powershell&langs_count=8%exclude_repo=alx-higher_level_programming,AirBnB_clone_v3" />
@@ -25,10 +25,12 @@
 
 
   
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=captjay98&theme=tokyonight_duo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api?username=captjay98&theme=tokyonight_duo&layout=compact" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captjay98&theme=tokyonight_duo&layout=compact&hide=Assembly,Powershell&langs_count=8%exclude_repo=alx-higher_level_programming,AirBnB_clone_v3" />
+</a>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=captjay98&theme=tokyonight_duo&layout=compact)](https://git.io/streak-stats)
