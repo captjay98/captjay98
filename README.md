@@ -48,8 +48,8 @@
 <br>
   
 
-[![GitHub Streak](https://streak-stats.demolab.com/captjay98)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=captjay98&theme=dark)](https://git.io/streak-stats)
 
 
 <a href="https://git.io/streak-stats">
@@ -57,7 +57,7 @@
 </a>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?captjay98)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?user=captjay98)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
