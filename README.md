@@ -54,7 +54,7 @@
 </a>
 
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime/?user=captjay98)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=captjay98)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
