@@ -49,7 +49,7 @@
   
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=captjay98&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=captjay98&theme=github_dark&layout=compact)](https://git.io/streak-stats)
 
 
 <a href="https://git.io/streak-stats">
