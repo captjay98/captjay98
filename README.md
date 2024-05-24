@@ -9,10 +9,7 @@
 [![](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/9fseiifs91xr5x6widc4by28o)
 
 
-
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-</br>
 </br>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=captjay98&theme=github_dark&layout=compact&hide=Assembly,Powershell&langs_count=8&exclude_repo=alx-higher_level_programming,AirBnB_clone_v3" />
