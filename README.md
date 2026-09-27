@@ -20,8 +20,8 @@
 | | Project | Live | Stack |
 |---|---|---|---|
 | 🎬 | [**ClearCut**](https://github.com/captjay98/clearcut) — screenplay pre-clearance evidence workspace | [clearcut.jamalibrahim.dev](https://clearcut.jamalibrahim.dev) | Bedrock · Strands · FastAPI |
-| 🐄 | [**LivestockAI**](https://github.com/captjay98/farmhand) — AI-native operating system for livestock farms | [livestockai.app](https://livestockai.app) | FastAPI · TanStack · Gemini |
-| 🛡 | [**OneSecOS**](https://github.com/captjay98/onesecos) — security ops, patrol dispatch & emergency response | [onesecos.com](https://onesecos.com) | Laravel · Flutter · Docker |
+| 🐄 | **LivestockAI** — AI-native operating system for livestock farms | [livestockai.app](https://livestockai.app) | FastAPI · TanStack · Gemini |
+| 🛡 | **OneSecOS** — security ops, patrol dispatch & emergency response | [onesecos.com](https://onesecos.com) | Laravel · Flutter · Docker |
 | 🚗 | [**NIPSMAP**](https://nipsmap.com.ng) — commuter safety: vehicle checks, trip sharing, SOS | [nipsmap.com.ng](https://nipsmap.com.ng) | Flutter · Laravel |
 | 🌾 | [**ProJavi**](https://www.projavi.com/) — agricultural marketplace platform | [projavi.com](https://www.projavi.com/) | Laravel · Next.js · Flutter |
 | 🚚 | [**DeliveryNexus**](https://deliverynexus.ng/) — commerce & logistics operating system | [deliverynexus.ng](https://deliverynexus.ng/) | React · TypeScript · Next.js |
